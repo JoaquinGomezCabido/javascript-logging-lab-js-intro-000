@@ -1,5 +1,5 @@
 console.error("HALP!")
 
-console.log("LOG!")
+console.log("I would be a logger.")
 
 console.warn("WARNING!")
